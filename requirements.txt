@@ -2,4 +2,3 @@ This is chat application
 Emoji
 Type option
 Colours
-Vibrant
